@@ -1,0 +1,38 @@
+.information-bg{
+    background-color: lightslategrey;
+    border-radius: 20px;
+    margin-top: -70px;
+    padding: 23px;
+    box-shadow: 0px 30px 20px 0px #0000007a;
+    color: #ffff;
+}
+.our-pac{
+    margin-bottom: 100px;
+    margin-top: 80px;
+}
+.images{
+    padding: 0px 110px;
+}
+.Happy{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+.pragerap{   
+width: 203px;  
+margin: auto;   
+margin-bottom: 12px;  
+font-style: italic;
+}
+.Happy-clin{  
+margin: 50px 0px;
+    
+box-shadow: 0px 10px 20px 15px #bdbdbd;
+}
+.hello{  
+float: right;   
+background: linear-gradient(45deg, #662112, transparent); 
+color: white;   
+font-weight: 700;
+}
