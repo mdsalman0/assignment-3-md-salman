@@ -44,3 +44,41 @@ font-weight: 700;
     padding-top: 15px;
     padding-bottom: 7px;
 }
+.hot{
+background: red;
+width: 42px;
+border-radius: inherit;
+font-size: 14px;
+text-align: center;
+padding: 3px 0px;
+float: right;
+margin-top: -35px;
+}
+button.accordion-button.title.collapsed {
+    background: linear-gradient(40deg
+,#8c6eab , transparent);
+    box-shadow: 0px 20px 20px 0px #79799b;
+}
+.title-name{
+   color: white;
+    border-radius: 5px;
+}
+.color-style{
+    background-color: #3f6890;
+    color: white;
+}
+h1.title-style {
+    width: 495px;
+    margin: auto;
+    background: repeating-linear-gradient(45deg, #838ba9cc, transparent 100px);
+    padding: 10px;
+    border-radius: 5px;
+    color: #b2bedf;
+}
+p.pra-style {
+    width: 423px;
+    padding: 10px;
+    margin: auto;
+    background: linear-gradient(40deg, #47b2f17d, transparent);
+    border-radius: 10px;
+}
